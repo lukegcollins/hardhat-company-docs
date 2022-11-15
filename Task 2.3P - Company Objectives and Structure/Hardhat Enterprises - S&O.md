@@ -111,15 +111,33 @@ Describe the deliverables associated with this project – distinguish between l
 ### App Attack
 #### Overview, Goals, and Objectives
 
-Describe the project, its motivation, overall/long-term goals of the project, and how it impacts stakeholders…
+Deakin's OnTrack online application will undergo secure code review and web application penetration testing from AppAttack. The objective is to deliver a comprehensive security report to Deakin that includes identification of vulnerabilities and recommendations for application and code hardening.
+
+The AppAttack project for this trimester will begin from scratch. Except for the retesting of prior findings, earlier iterations and deliverables won't be carried over into this trimester.
+
+Additionally, the goal of AppAttack is to provide internal deliverables to support subsequent rounds of AppAttack as well as deliverables of value to our customer Deakin. Internal deliverables aim to develop methodology, frameworks, report templates, a centralised knowledge base, and exploitation tools to speed up client deliverables and increase the range of services and products offered by AppAttack.
 
 #### Aims for Trimester
 
-Describe the aims of the project for this trimester.
+- Build a testing environment 
+- Improving our testing environments
+  - Each subteam will dive deep in one particilar part of OnTrack (like authentication, APIs) 
+  - Provides instructions on replicating updated environment
+  - Next trimester can doing the work continuous and not restart.
+- Perform penetration testing on OnTracks in an attempt to find working exploits for vulnerability
+  - Both successful and unsuccessful exploits should be recorded and discussed, including the
+process of trial and error that was used to reach a working exploit
+- Provide analysis for OnTrack codebase's security
+  - Provide recommendation for both vulnerable and potential dangerous
+- Develop procedures, templates, and techniques.
+- Create an experience that is comparable to the industry for students to emphasise on resumes when applying for high-caliber professions.
+- Add value for stakeholders, clients, and students.
+- Offer Deakin University deliverables that are worthwhile.
 
 #### Deliverables
 
-Describe the deliverables associated with this project – distinguish between long-term and trimester deliverables.
+- Deliver a Web Application Penetration Testing Report and Secure Code Review to Deakin University meet the industry standard.
+- Cover all parts of OnTrack's codebase 
 
 #### Project Members
 [Please see appendix C - App Attack](#appendix-c)
@@ -190,11 +208,28 @@ NASA Protocol Exploits consists of a team that aims to evaluate security impleme
 
 ### Appendix C
 #### App Attack
-| Name                  | Role                  |
-| -----------           | -----------           |
-| Gia Phu Tran          | Project Lead          |
-| Miaoxuan Han          | Vice Project Lead     |
-| Other Members         | Other roles           |
+| Name                          | Role                  |
+| -----------                   | -----------           |
+| Gia Phu Tran                  | Project Lead          |
+| Miaoxuan Han                  | Vice Project Lead     |
+|Angad Gandhi | Team Lead, Technical Lead |
+|Avinash Babu | Team Lead | 
+|Fayzan Latif Soomro | Team Lead |  
+|Dilushan Kusal Gunasekara |Penetration Tester, Reporting Lead| 
+|Dilshan Wickramasinghe | Penetration Tester|
+|Suntosh Mudaliar| Penetration Tester|
+|John Patrick Thomas| Penetration Tester|
+|Shavon Martin| Penetration Tester|
+|Kevin Nguyen| Penetration Tester|
+|Rusith Siriwardena| Penetration Tester|
+|Matthew Shiroodi| Penetration Tester|
+|Gleb Spektor| Penetration Tester|
+|Jack Sievers| Penetration Tester|
+|Beau Williams| Penetration Tester|
+|Pamudu Wickrama| Penetration Tester|
+|Oliver Power| Penetration Tester|
+|Olivia Vosdoganis| Penetration Tester|
+|Ashen Udara Madurawala| Penetration Tester|
 <div style="page-break-after: always;"></div>
 
 ### Appendix D
