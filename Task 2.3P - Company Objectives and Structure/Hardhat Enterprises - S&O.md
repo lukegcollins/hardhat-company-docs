@@ -72,7 +72,7 @@ This trimmester Hardhat Enterprises aims to:
 <div style="page-break-after: always;"></div>
 
 ## Company Structure and Projects Overview
-This trimester (T2/2022), the company is working on five different projects, each supporting the goals of the company in a different way.  
+This trimester (T3/2022), the company is working on five different projects, each supporting the goals of the company in a different way.  
 
 ### Breaking CAPTCHA
 #### Overview, Goals, and Objectives
