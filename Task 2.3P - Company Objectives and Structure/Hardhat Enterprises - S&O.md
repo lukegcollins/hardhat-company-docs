@@ -65,10 +65,10 @@ The below outlines the membership of the leadership team for this trimester:
 
 
 ## Trimester Goals and Objectives
-This trimmest Hardhat Enterprises aims to:  
+This trimmester Hardhat Enterprises aims to:  
 - Achieve an engaging learning experience for students within the company.
 - Achieve an opportunity for students to gain cross department/project experience and the opportunity to share their expertise outside of their project team.
-- Continue maturing the five different projects; PT-GU; AppAttack; Breaking CAPTCHA; Fortify; and NASA Protocol Exploits.These projects will continue into future trimesters and provide students an opportunity to showcase their skills. All projects will be open source for students to show to future employers. 
+- Continue maturing the five different projects; AppAttack; Breaking CAPTCHA; Fortify; and NASA Protocol Exploits.These projects will continue into future trimesters and provide students an opportunity to showcase their skills. All projects will be open source for students to show to future employers. 
 <div style="page-break-after: always;"></div>
 
 ## Company Structure and Projects Overview
@@ -77,15 +77,35 @@ This trimester (T2/2022), the company is working on five different projects, eac
 ### Breaking CAPTCHA
 #### Overview, Goals, and Objectives
 
-Describe the project, its motivation, overall/long-term goals of the project, and how it impacts stakeholders…
+The goal of the Breaking CAPTCHA project is to develop machine learning, AI, and computer vision models to autonomously solve CAPTCHA problems. The final product of the project will be to provide end users with an interface to solve these CAPTCHA problems. This user interface will be the focus of future iterations.The Hardhat Director wants a product that improves upon current open-source solutions for this problem. As a result, the models to be produced will need to be either more accurate, reliable, or solvea novel issue facing current CAPTCHA solving models. This will be done through several steps, including research and development, creating of models, and deployment of models. This will be supported by cloud infrastructure developed to solve storage, processing, DevOps and handover issues allowing for the production of ‘infrastructure as code’ artefacts.  
 
 #### Aims for Trimester
 
-Describe the aims of the project for this trimester.
+The project aims for this trimester are to leverage the learnings of previous work as well as the current capability of the team. Our trimester deliverables will be: •Infrastructure as code product to enable efficient handover of cloud infrastructure. 
+
+- Improving the performance of the Machine learning model that breaks Audio CAPTCHAs.
+- Developing novel methods for solving Audio CAPTCHAS
+- Progressing the development of a nonsegmentation model that will break text CAPTCHAs.
+- Progress development Image CAPTCHA models.
+- An Improved pipeline which connects R&D and UI deliverables through CI/CD and improved infrastructure.
+- Improving the showcase website in both usability and runtime.
 
 #### Deliverables
 
-Describe the deliverables associated with this project – distinguish between long-term and trimester deliverables.
+Trimester Deliverables
+
+- Text, Image and Audio CAPTCHA breaking black box models which are versioned
+- Improved performance of CAPTCHA breaking models
+- Improved runtime of Cloud based solutions
+- Connectivity between R&D and Products using Cloud resources as well as CI/CD pipelines
+- Improved Documentation of progress to date
+- Improved analysis of state of the art of the Breaking CAPTCHA
+
+Long Term Deliverables
+
+- An end user product that will allow a user to solve CAPTCHA in real-time with minimal human input 
+  - App or website
+  - Chrome Extension
 
 #### Project Members
 [Please see appendix A - Breaking CAPTCHA](#appendix-a)
@@ -177,7 +197,15 @@ NASA Protocol Exploits consists of a team that aims to evaluate security impleme
 | Name                  | Role                  |
 | -----------           | -----------           |
 | Luka Croote           | Project Lead          |
-| Other Members         | Other roles           |
+| NGUYEN NGOC BACH LUU  | Other roles           |
+| Jamil Rizkallah       | Other roles           |
+| Inder Singh           | Other roles           |
+| Fenglu Cai            | Other roles           |
+| Tanya Gural           | Other roles           |
+| Harry Singh           | Other roles           |
+| Ridwan Ganiyu         | Other roles           |
+| Koshila Dodantenna    | Other roles           |
+
 <div style="page-break-after: always;"></div>
 
 ### Appendix B
