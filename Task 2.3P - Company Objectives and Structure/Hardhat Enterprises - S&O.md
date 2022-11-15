@@ -17,7 +17,7 @@
       - [Deliverables](#deliverables)
       - [Project Members](#project-members)
     - [Penetration Testing GUI](#penetration-testing-gui)
-      - [Overview, Goals, and Objectives](#overview-goals-and-objectives-1)
+      - [Overview, Goals, and Objectives](#overview-goals-łnd-objectives-1)
       - [Aims for Trimester](#aims-for-trimester-1)
       - [Deliverables](#deliverables-1)
       - [Project Members](#project-members-1)
@@ -212,24 +212,24 @@ NASA Protocol Exploits consists of a team that aims to evaluate security impleme
 | -----------                   | -----------           |
 | Gia Phu Tran                  | Project Lead          |
 | Miaoxuan Han                  | Vice Project Lead     |
-|Angad Gandhi | Team Lead, Technical Lead |
-|Avinash Babu | Team Lead | 
-|Fayzan Latif Soomro | Team Lead |  
-|Dilushan Kusal Gunasekara |Penetration Tester, Reporting Lead| 
-|Dilshan Wickramasinghe | Penetration Tester|
-|Suntosh Mudaliar| Penetration Tester|
-|John Patrick Thomas| Penetration Tester|
-|Shavon Martin| Penetration Tester|
-|Kevin Nguyen| Penetration Tester|
-|Rusith Siriwardena| Penetration Tester|
-|Matthew Shiroodi| Penetration Tester|
-|Gleb Spektor| Penetration Tester|
-|Jack Sievers| Penetration Tester|
-|Beau Williams| Penetration Tester|
-|Pamudu Wickrama| Penetration Tester|
-|Oliver Power| Penetration Tester|
-|Olivia Vosdoganis| Penetration Tester|
-|Ashen Udara Madurawala| Penetration Tester|
+|Angad Gandhi                   | Team Lead, Technical Lead |
+|Avinash Babu                   | Team Lead | 
+|Fayzan Latif Soomro            | Team Lead |  
+|Dilushan Kusal Gunasekara      |Penetration Tester, Reporting Lead| 
+|Dilshan Wickramasinghe         | Penetration Tester|
+|Suntosh Mudaliar               | Penetration Tester|
+|John Patrick Thomas            | Penetration Tester|
+|Shavon Martin                  | Penetration Tester|
+|Kevin Nguyen                   | Penetration Tester|
+|Rusith Siriwardena             | Penetration Tester|
+|Matthew Shiroodi               | Penetration Tester|
+|Gleb Spektor                   | Penetration Tester|
+|Jack Sievers                   | Penetration Tester|
+|Beau Williams                  | Penetration Tester|
+|Pamudu Wickrama                | Penetration Tester|
+|Oliver Power                   | Penetration Tester|
+|Olivia Vosdoganis              | Penetration Tester|
+|Ashen Udara Madurawala         | Penetration Tester|
 <div style="page-break-after: always;"></div>
 
 ### Appendix D
