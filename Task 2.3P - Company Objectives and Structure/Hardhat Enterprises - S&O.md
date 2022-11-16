@@ -230,6 +230,10 @@ NASA Protocol Exploits consists of a team that aims to evaluate security impleme
 |Oliver Power                   | Penetration Tester|
 |Olivia Vosdoganis              | Penetration Tester|
 |Ashen Udara Madurawala         | Penetration Tester|
+|Mitchell Burcheri| Penetration Tester |
+|Muhammad Saim Khan| Penetration Tester |
+|Diomedes Dio Kyrou| Penetration Tester |
+|Vick Kumar| Penetration Tester |
 <div style="page-break-after: always;"></div>
 
 ### Appendix D
