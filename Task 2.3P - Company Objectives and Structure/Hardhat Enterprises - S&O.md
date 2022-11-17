@@ -77,29 +77,30 @@ This trimester (T3/2022), the company is working on five different projects, eac
 ### Breaking CAPTCHA
 #### Overview, Goals, and Objectives
 
-The goal of the Breaking CAPTCHA project is to develop machine learning, AI, and computer vision models to autonomously solve CAPTCHA problems. The final product of the project will be to provide end users with an interface to solve these CAPTCHA problems. This user interface will be the focus of future iterations.The Hardhat Director wants a product that improves upon current open-source solutions for this problem. As a result, the models to be produced will need to be either more accurate, reliable, or solvea novel issue facing current CAPTCHA solving models. This will be done through several steps, including research and development, creating of models, and deployment of models. This will be supported by cloud infrastructure developed to solve storage, processing, DevOps and handover issues allowing for the production of ‘infrastructure as code’ artefacts.  
+The goal of the Breaking CAPTCHA project is to develop machine learning, AI, and computer vision models to autonomously solve CAPTCHA problems. The final product of the project will be to provide end users with an interface to solve these CAPTCHA problems. This user interface will be the focus of future iterations.The Hardhat Director wants a product that improves upon current open-source solutions for this problem. As a result, the models to be produced will need to be either more accurate, reliable, or solve a novel issue facing current CAPTCHA solving models. This will be done through several steps, including research and development, creating of models, and deployment of models as well as engineering of deployment and model pipelines. This will be supported by cloud infrastructure developed to solve storage, processing, DevOps and handover issues allowing for the production of ‘infrastructure as code’ artefacts.  
 
 #### Aims for Trimester
 
-The project aims for this trimester are to leverage the learnings of previous work as well as the current capability of the team. Our trimester deliverables will be: •Infrastructure as code product to enable efficient handover of cloud infrastructure. 
+The project aims for this trimester are to leverage the learnings of previous work as well as the current capability of the team. Our trimester deliverables will be: •
 
+- Infrastructure as code product to enable efficient handover of cloud infrastructure. 
 - Improving the performance of the Machine learning model that breaks Audio CAPTCHAs.
 - Developing novel methods for solving Audio CAPTCHAS
-- Progressing the development of a nonsegmentation model that will break text CAPTCHAs.
-- Progress development Image CAPTCHA models.
-- An Improved pipeline which connects R&D and UI deliverables through CI/CD and improved infrastructure.
+- Progressing the development of a non-segmentation model that will break text CAPTCHAs.
+- An Improved pipeline which connects R&D and UI deliverables through Machine Learning pipelines, CI/CD pipelines and improved infrastructure.
 - Improving the showcase website in both usability and runtime.
 
 #### Deliverables
 
 Trimester Deliverables
 
-- Text, Image and Audio CAPTCHA breaking black box models which are versioned
+- Text and Audio CAPTCHA breaking black box models which are versioned and operationalised
 - Improved performance of CAPTCHA breaking models
 - Improved runtime of Cloud based solutions
-- Connectivity between R&D and Products using Cloud resources as well as CI/CD pipelines
+- Connectivity between R&D and Products using Cloud resources as well as CI/CD and ML pipelines
 - Improved Documentation of progress to date
 - Improved analysis of state of the art of the Breaking CAPTCHA
+- Possibly research and proof of concept solutions for cognitive reasoning based CAPTCHAS
 
 Long Term Deliverables
 
@@ -197,14 +198,13 @@ NASA Protocol Exploits consists of a team that aims to evaluate security impleme
 | Name                  | Role                  |
 | -----------           | -----------           |
 | Luka Croote           | Project Lead          |
-| NGUYEN NGOC BACH LUU  | Other roles           |
-| Jamil Rizkallah       | Other roles           |
-| Inder Singh           | Other roles           |
-| Fenglu Cai            | Other roles           |
-| Tanya Gural           | Other roles           |
-| Harry Singh           | Other roles           |
-| Ridwan Ganiyu         | Other roles           |
-| Koshila Dodantenna    | Other roles           |
+| NGUYEN NGOC BACH LUU  | Text CAPTCHA R&D           |
+| Jamil Rizkallah       | Audio CAPTCHA R&D           |
+| Inder Singh           | Audio CAPTCHA R&D           |
+| Fenglu Cai            | Audio CAPTCHA R&D           |
+| Tanya Gural           | Cloud/DevOps Engineer, Scrum master           |
+| Ridwan Ganiyu         | Audio CAPTCHA R&D           |
+| Koshila Dodantenna    | Cloud Engineer           |
 
 <div style="page-break-after: always;"></div>
 
