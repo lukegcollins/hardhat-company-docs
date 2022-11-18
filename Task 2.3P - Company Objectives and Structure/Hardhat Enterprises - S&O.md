@@ -168,15 +168,27 @@ process of trial and error that was used to reach a working exploit
 ### Fortify
 #### Overview, Goals, and Objectives
 
-Describe the project, its motivation, overall/long-term goals of the project, and how it impacts stakeholders…
+Fortify is a platform that connects volunteer cyber security professionals with organisations that need assistance building their system security. Fortify attempts to address security flaws and problems that typically affect small enterprises and non-profit organisations that lack the resources to hire a skilled cyber security team. The goal of Fortify is to connect these companies with qualified volunteers who can help raise awareness of cyber security practises, give them the chance to evaluate their present security posture and strengthen their security capabilities, and giving the volunteers the opportunity to showcase their cyber expertise and broaden their network. It's also vital to note that the Fortify’s long-term goal is to become a non-profit organisation that promotes its services all throughout Australia, improving overall security and defending against cyber-attacks. The Fortify project for this trimester builds on existing work finalised in previous trimesters and aims to summarise it, fill the gaps and create a comprehensive report that describes all business operations from start to finish.
+
 
 #### Aims for Trimester
 
-Describe the aims of the project for this trimester.
+-	Update the existing website designs and mock-ups
+-	Create a comprehensive plan on how to build a website and a database in a secure manner. 
+-	Start the work on developing the website 
+-	Build a questionnaire for clients  based on Essential 8
+-	Create a report showcasing all business procedures with use cases 
+-	Create selection criteria for becoming a volunteer
+
 
 #### Deliverables
 
-Describe the deliverables associated with this project – distinguish between long-term and trimester deliverables.
+•	Improved design of the website 
+•	Research and proof of concept solutions for Fortify website and database
+•	The landing page and environments for the website
+•	Developed and refined cyber security assessment questionnaire and scoring matrix
+•	A clear and comprehensive report with the plan and explanation of all business operations 
+
 
 #### Project Members
 [Please see appendix D - Fortify](#appendix-d)
@@ -266,10 +278,23 @@ NASA Protocol Exploits consists of a team that aims to evaluate security impleme
 
 ### Appendix D
 #### Fortify Team Members
-| Name                  | Role                  |
-| -----------           | -----------           |
-| Paulina Wesolowska    | Project Lead          |
-| Other Members         | Other roles           |
+| Name                               | Role                  |
+| -----------                        | -----------           |
+| Paulina Wesolowska                 | Project Lead          |
+| Shravan Paladugu                   | Team Lead             |
+| Abigail Chong                      | Development Team      |
+| Ali Adil Abdulrazzaq Al-Kinan      | Development Team      |
+| David Wang                         | Development Team      |
+| Harry Singh                        | Development Team      |
+| Nadia Maharani Azhari              | Development Team      |
+| Tom Edmondson                      | Development Team      |
+| Bill Petridis                      | Team Lead             |
+| Aayush Talwar                      | Research Team         |
+| Kevin Kidd                         | Research Team         |
+| Luke Newton                        | Research Team         |
+| Manav Lath                         | Research Team         |
+| Muhammed Khudruj                   | Research Tea          |
+| Ranjan Weerasinghe                 | Research Team         |
 <div style="page-break-after: always;"></div>
 
 ### Appendix E
