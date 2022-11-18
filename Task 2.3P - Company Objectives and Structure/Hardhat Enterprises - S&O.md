@@ -17,7 +17,7 @@
       - [Deliverables](#deliverables)
       - [Project Members](#project-members)
     - [Penetration Testing GUI](#penetration-testing-gui)
-      - [Overview, Goals, and Objectives](#overview-goals-łnd-objectives-1)
+      - [Overview, Goals, and Objectives](#overview-goals-and-objectives-1)
       - [Aims for Trimester](#aims-for-trimester-1)
       - [Deliverables](#deliverables-1)
       - [Project Members](#project-members-1)
@@ -277,4 +277,11 @@ NASA Protocol Exploits consists of a team that aims to evaluate security impleme
 | Name                  | Role                  |
 | -----------           | -----------           |
 | Luke Collins          | Project Lead          |
-| Other Members         | Other roles           |
+| Zara Rose Scherger    | Junior Project Lead   |
+| Yongxiang Huang       | Researcher            |
+| Connie Cox            | Researcher            |
+| Jesse Ludeman         | Researcher            |
+| Izaz ishaque          | Researcher            |
+| Tristen Clifton       | Researcher            |
+| Andrew Eymard         | Researcher            |
+| Yizhou Feng           | Researcher            |
