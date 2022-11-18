@@ -1,5 +1,4 @@
 # Hardhat Enterprises
-# Company Structure and Objectives for 2022 T3
 
 ## Table of Contents
 - [Hardhat Enterprises](#hardhat-enterprises)
@@ -47,6 +46,7 @@
       - [NASA Exploits Project Team Members](#nasa-exploits-project-team-members)
 <div style="page-break-after: always;"></div>
 
+# Company Structure and Objectives for 2022 T3
 ## Executive Summary
 ### For our Stakeholders
 Hardhat Enterprises is an organization that aims to create cyber weapons and tools that can be used to empower white-hat operations. All deliverables produced by the company will be open source so that anyone may use and benefit from them. These deliverables should either improve on existing tools or fill a market need that is not yet met.
@@ -205,7 +205,7 @@ The NASA Protocol Exploits team aims to advance the project in three different a
 **Static Code Analysis** - The static analysis team, given the nature of work, carried out in previous trimesters and the list of vulnerabilities generated via automated vulnerability/defect services such as Coverity. The group aims to work through the highest-priority vulnerabilities and document their findings alongside reviewing several aspects of the environment's source code. Some tasks include but are not limited to:
   * Reporting on the validity of previously detected vulnerabilities.
   * Reporting the potential impact of such vulnerabilities.
-  * Providing potential remidies and/or code fixes.
+  * Providing potential remedies and/or code fixes.
   * Developing and deploying exploits from said vulnerabilities.  
   
 **Dynamic Code Analysis** - The dynamic analysis team aims to continue developing and deploying various fuzzing tools/techniques from the last trimester. The goal is to attack the testing environment to see multiple protocols within the DTN stack react and report on the findings. Some tasks include but are not limited to:
