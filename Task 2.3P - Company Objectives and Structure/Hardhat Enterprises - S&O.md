@@ -35,11 +35,10 @@
       - [Overview, Goals, and Objectives](#overview-goals-and-objectives-4)
       - [Aims for Trimester](#aims-for-trimester-4)
       - [Deliverables](#deliverables-4)
-      - [**Project Members**](#project-members-4)
+      - [Project Members](#project-members-4)
     - [Appendix A](#appendix-a)
       - [Breaking Captcha Team Members](#breaking-captcha-team-members)
-    - [Appendix B](#appendix-b)
-      - [Penertration Testing GUI Team Members](#penertration-testing-gui-team-members)
+    - [Appendix Penetration Testing GUI Team Members](#appendix-penetration-testing-gui-team-members)
     - [Appendix C](#appendix-c)
       - [App Attack](#app-attack-1)
     - [Appendix D](#appendix-d)
@@ -50,11 +49,11 @@
 
 ## Executive Summary
 ### For our Stakeholders
-Hardhat Enterprises is an organisation that aims to create cyber weapons and tools that can be used to empower white-hat operations. All deliverables produced by the company will be open source so that anyone may use and benefit from them. These deliverables should either improve on existing tools or fill a market need that is not yet met.
+Hardhat Enterprises is an organization that aims to create cyber weapons and tools that can be used to empower white-hat operations. All deliverables produced by the company will be open source so that anyone may use and benefit from them. These deliverables should either improve on existing tools or fill a market need that is not yet met.
 
 ### For our Employees
 Hardhat Enterprises will aim to provide its employees with opportunities to:
-- Build-up their skills and knowledge.
+- Build up their skills and knowledge.
 - Create meaningful connections.
 - Produce meaningful deliverables that will showcase their abilities.
 
@@ -65,10 +64,10 @@ The below outlines the membership of the leadership team for this trimester:
 
 
 ## Trimester Goals and Objectives
-This trimmester Hardhat Enterprises aims to:  
+This trimester Hardhat Enterprises aims to:  
 - Achieve an engaging learning experience for students within the company.
-- Achieve an opportunity for students to gain cross department/project experience and the opportunity to share their expertise outside of their project team.
-- Continue maturing the five different projects; AppAttack; Breaking CAPTCHA; Fortify; and NASA Protocol Exploits.These projects will continue into future trimesters and provide students an opportunity to showcase their skills. All projects will be open source for students to show to future employers. 
+- Achieve an opportunity for students to gain cross-department/project experience and the chance to share their expertise outside of their project team.
+- Continue maturing the five projects; AppAttack; Breaking CAPTCHA; Fortify; and NASA Protocol Exploits. These projects will continue into future trimesters and allow students to showcase their skills. All projects will be open source for students to show to future employers. 
 <div style="page-break-after: always;"></div>
 
 ## Company Structure and Projects Overview
@@ -77,7 +76,7 @@ This trimester (T3/2022), the company is working on five different projects, eac
 ### Breaking CAPTCHA
 #### Overview, Goals, and Objectives
 
-The goal of the Breaking CAPTCHA project is to develop machine learning, AI, and computer vision models to autonomously solve CAPTCHA problems. The final product of the project will be to provide end users with an interface to solve these CAPTCHA problems. This user interface will be the focus of future iterations.The Hardhat Director wants a product that improves upon current open-source solutions for this problem. As a result, the models to be produced will need to be either more accurate, reliable, or solve a novel issue facing current CAPTCHA solving models. This will be done through several steps, including research and development, creating of models, and deployment of models as well as engineering of deployment and model pipelines. This will be supported by cloud infrastructure developed to solve storage, processing, DevOps and handover issues allowing for the production of ‘infrastructure as code’ artefacts.  
+The goal of the Breaking CAPTCHA project is to develop machine learning, AI, and computer vision models to autonomously solve CAPTCHA problems. The final product of the project will be to provide end users with an interface to solve these CAPTCHA problems. This user interface will be the focus of future iterations. The Hardhat Director wants a product that improves upon current open-source solutions for this problem. As a result, the models to be produced will need to be either more accurate, reliable, or solve a novel issue facing current CAPTCHA solving models. This will be done through several steps, including research and development, creating of models, and deployment of models as well as engineering of deployment and model pipelines. This will be supported by cloud infrastructure developed to solve storage, processing, DevOps and handover issues allowing for the production of ‘infrastructure as code’ artefacts.  
 
 #### Aims for Trimester
 
@@ -132,19 +131,19 @@ Describe the deliverables associated with this project – distinguish between l
 ### App Attack
 #### Overview, Goals, and Objectives
 
-Deakin's OnTrack online application will undergo secure code review and web application penetration testing from AppAttack. The objective is to deliver a comprehensive security report to Deakin that includes identification of vulnerabilities and recommendations for application and code hardening.
+Deakin's OnTrack online application will undergo secure code review and web application penetration testing from AppAttack. The objective is to deliver a comprehensive security report to Deakin that includes the identification of vulnerabilities and recommendations for application and code hardening.
 
-The AppAttack project for this trimester will begin from scratch. Except for the retesting of prior findings, earlier iterations and deliverables won't be carried over into this trimester.
+The AppAttack project for this trimester will begin from scratch. Except for retesting prior findings, earlier iterations and deliverables won't be carried over into this trimester.
 
-Additionally, the goal of AppAttack is to provide internal deliverables to support subsequent rounds of AppAttack as well as deliverables of value to our customer Deakin. Internal deliverables aim to develop methodology, frameworks, report templates, a centralised knowledge base, and exploitation tools to speed up client deliverables and increase the range of services and products offered by AppAttack.
+Additionally, the goal of AppAttack is to provide internal deliverables to support subsequent rounds of AppAttack and deliverables of value to our customer Deakin. Internal deliverables aim to develop a methodology, frameworks, report templates, a centralized knowledge base, and exploitation tools to speed up client deliverables and increase the range of services and products offered by AppAttack.
 
 #### Aims for Trimester
 
 - Build a testing environment 
 - Improving our testing environments
-  - Each subteam will dive deep in one particilar part of OnTrack (like authentication, APIs) 
-  - Provides instructions on replicating updated environment
-  - Next trimester can doing the work continuous and not restart.
+  - Each subteam will dive deep into one particular part of OnTrack (like authentication, APIs) 
+  - Provides instructions on replicating the updated environment.
+  - Allow the next trimester can do the work continuously and not restart.
 - Perform penetration testing on OnTracks in an attempt to find working exploits for vulnerability
   - Both successful and unsuccessful exploits should be recorded and discussed, including the
 process of trial and error that was used to reach a working exploit
@@ -186,31 +185,55 @@ Describe the deliverables associated with this project – distinguish between l
 ### NASA Exploits Project
 #### Overview, Goals, and Objectives
 
-NASA Protocol Exploits consists of a team that aims to evaluate security implementation in space communications. The motivation for this project is the sensitive nature of data that is communicated over satellites, which typically have ‘security’ low on the priority list. Our overall goal is to find different vulnerabilities in the protocols and systems used for space communications and to ultimately document successful exploitations, the methodologies behind them, and potential remedies.
+The NASA Protocol Exploits project consists of a team of students that aim to evaluate and investigate the current implementation of the Interplanetary Overlay Network (ION) environment provided by the NASA JPL team. The motivation behind this project stems from the sensitive nature of data communicated over satellites, which typically have ‘security’ low on the priority list. Our overall goal is to analyze the source code and environment to identify various vulnerabilities in the protocols and systems used for space communications and to ultimately document successful exploitations, the methodologies behind them, and potential remedies.
 
 #### Aims for Trimester
+The NASA Protocol Exploits team aims to advance the project in three different areas over T3 of 2022. The three areas the project seeks to improve are as follows;   
 
+**Static Code Analysis** - The static analysis team, given the nature of work, carried out in previous trimesters and the list of vulnerabilities generated via automated vulnerability/defect services such as Coverity. The group aims to work through the highest-priority vulnerabilities and document their findings alongside reviewing several aspects of the environment's source code. Some tasks include but are not limited to:
+  * Reporting on the validity of previously detected vulnerabilities.
+  * Reporting the potential impact of such vulnerabilities.
+  * Providing potential remidies and/or code fixes.
+  * Developing and deploying exploits from said vulnerabilities.  
+  
+**Dynamic Code Analysis** - The dynamic analysis team aims to continue developing and deploying various fuzzing tools/techniques from the last trimester. The goal is to attack the testing environment to see multiple protocols within the DTN stack react and report on the findings. Some tasks include but are not limited to:
+  * Developing various fuzzing tools using python libraries.
+  * Developing various attack scenarios.
+  * Reporting on the techniques used and experiment findings.
 
-- Improve current documentation & testing enviroments:
-   - Improve the current state of training documentation.
-   - Improve the current start of the testing enviroment.
-   - Migrate all the the training and required upskills documents to Github.  
- - Begin Static Code analysis:
-   - Details on the deliverables.
-   - More details on the deliverables.
- - Continue Dynamic Code analysis:
-   - Details on the deliverables.
-   - More details on the deliverables.
+**Improve Company Documentation / Environment** - All project members aim to improve the overall quality of training materials, and the current way documentation is kept with the end goal of migrating resources to GitHub. Some tasks include but are not limited to: 
+ * Contributing to the NASA Exploits Project GitHub.
+ * Converting older resources in SharePoint to markdown for better source control.
+ * Improving the current state of training material / junior onboarding process. 
+ * Improving the current state of the testing environment.
 
 #### Deliverables
+Trimester deliverables for the following teams:  
+  1. Static Analysis Team: 
+     - Vulnerability Reports and Findings
+     - Exploits?!
+  2. Dynamic Analysis Team:
+     - Fuzzing Scripts for the following protocols; CFDP, AOS, BP, and LTP.
+     - Vulnerability Reports.
+     - Experiment Finding Reports.
+     - Attack Scenarios.
+  3. Project Leadership / Contributing Members:
+     - Company Handbook on GitHub.
+     - Updated Training Resources.
+     - Various Frameworks for vulnerability identification and Reporting
+   
+Long-Term Deliverables for the project: 
+  1. Successful exploitation of the protocol, potential real-world satellite interception.
+  2. Write/Submit a script to automatically exploit the protocol or intercept satellite communications.
+  3. Create a resource pool for the future extensibility of the project.
+  4. Present research findings and remediation recommendations to NASA.
+  5. Attain access to the full version of ION.
 
 
-
-#### **Project Members**
+#### Project Members
 [Please see appendix D - NASA Exploits Project](#appendix-e)
 <div style="page-break-after: always;"></div>
 
-***
 ### Appendix A
 #### Breaking Captcha Team Members
 | Name                  | Role                  |
@@ -226,8 +249,7 @@ NASA Protocol Exploits consists of a team that aims to evaluate security impleme
 
 <div style="page-break-after: always;"></div>
 
-### Appendix B
-#### Penertration Testing GUI Team Members
+### Appendix Penetration Testing GUI Team Members
 | Name                  | Role                  |
 | -----------           | -----------           |
 | ???                   | Project Lead          |
