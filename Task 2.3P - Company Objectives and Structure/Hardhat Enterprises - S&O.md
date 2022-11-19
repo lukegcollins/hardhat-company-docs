@@ -71,8 +71,23 @@ This trimester Hardhat Enterprises aims to:
 <div style="page-break-after: always;"></div>
 
 ## Company Structure and Projects Overview
-This trimester (T3/2022), the company is working on four different projects, each supporting the company's goals in another way. Unfortunately, given the limited number of members this trimester, our fifth project, the Penetration testing GUI has been suspended until further notice.
+### General Overview
+This trimester (T3/2022), the company is working on four different projects, each supporting the company's goals in another way. Unfortunately, given the limited number of members this trimester, our fifth project, the Penetration testing GUI has been suspended until further notice.  
 
+Breaking Captcha  
+Penetration Testing GUI  
+App Attack  
+Fortify  
+NASA Protocol Exploits aims to find vulnerabilities in space communications and to exploit them. The final deliverables will be reports that showcase the exploits, outline the associated threats and ramifications, and potentially recommending remedies.
+
+### Project Relationships
+NASA Protocol Exploits, App Attack, and Fortify all directly contribute to the goals of the company.
+Apart from the contribution to the goals of the company: 
+- Penetration Testing GUI will also act as a tool that can potentially support the goals and objecting of the NASA protocol exploits project, AppAttack, and Fortify Projects. 
+-	Breaking CAPTCHA could also provide an attack method that would be integrated into the PT GUI software as an additional capability. 
+
+![Project Relationships](ProjectRelationships.drawio.svg)
+<div style="page-break-after: always;"></div>
 ### Breaking CAPTCHA
 #### Overview, Goals, and Objectives
 
