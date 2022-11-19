@@ -310,12 +310,13 @@ Long-Term Deliverables for the project:
 | Harry Singh                        | Development Team      |
 | Nadia Maharani Azhari              | Development Team      |
 | Tom Edmondson                      | Development Team      |
+| Beatrice Jeruto Rerimoi            | Development Team      |
 | Bill Petridis                      | Team Lead             |
 | Aayush Talwar                      | Research Team         |
 | Kevin Kidd                         | Research Team         |
 | Luke Newton                        | Research Team         |
 | Manav Lath                         | Research Team         |
-| Muhammed Khudruj                   | Research Tea          |
+| Muhammed Khudruj                   | Research Team         |
 | Ranjan Weerasinghe                 | Research Team         |
 <div style="page-break-after: always;"></div>
 
