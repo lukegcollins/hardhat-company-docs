@@ -10,6 +10,8 @@
     - [Leadership Team](#leadership-team)
   - [Trimester Goals and Objectives](#trimester-goals-and-objectives)
   - [Company Structure and Projects Overview](#company-structure-and-projects-overview)
+    - [General Overview](#general-overview)
+    - [Project Relationships](#project-relationships)
     - [Breaking CAPTCHA](#breaking-captcha)
       - [Overview, Goals, and Objectives](#overview-goals-and-objectives)
       - [Aims for Trimester](#aims-for-trimester)
@@ -61,24 +63,17 @@ Hardhat Enterprises will aim to provide its employees with opportunities to:
 The below outlines the membership of the leadership team for this trimester:
 
 ![Leadership Team](LeadershipTeam.drawio.svg)
-
+<div style="page-break-after: always;"></div>
 
 ## Trimester Goals and Objectives
 This trimester Hardhat Enterprises aims to:  
 - Achieve an engaging learning experience for students within the company.
 - Achieve an opportunity for students to gain cross-department/project experience and the chance to share their expertise outside of their project team.
 - Continue maturing the five projects; AppAttack; Breaking CAPTCHA; Fortify; and NASA Protocol Exploits. These projects will continue into future trimesters and allow students to showcase their skills. All projects will be open source for students to show to prospective employers. 
-<div style="page-break-after: always;"></div>
 
 ## Company Structure and Projects Overview
 ### General Overview
 This trimester (T3/2022), the company is working on four different projects, each supporting the company's goals in another way. Unfortunately, given the limited number of members this trimester, our fifth project, the Penetration testing GUI has been suspended until further notice.  
-
-Breaking Captcha  
-Penetration Testing GUI  
-App Attack  
-Fortify  
-NASA Protocol Exploits aims to find vulnerabilities in space communications and to exploit them. The final deliverables will be reports that showcase the exploits, outline the associated threats and ramifications, and potentially recommending remedies.
 
 ### Project Relationships
 NASA Protocol Exploits, App Attack, and Fortify all directly contribute to the goals of the company.
@@ -88,6 +83,7 @@ Apart from the contribution to the goals of the company:
 
 ![Project Relationships](ProjectRelationships.drawio.svg)
 <div style="page-break-after: always;"></div>
+
 ### Breaking CAPTCHA
 #### Overview, Goals, and Objectives
 
@@ -114,7 +110,10 @@ Trimester Deliverables
 - Connectivity between R&D and Products using Cloud resources as well as CI/CD and ML pipelines
 - Improved Documentation of progress to date
 - Improved analysis of the state of art of the Breaking CAPTCHA
-- Possibly research and proof of concept solutions for cognitive reasoning-based CAPTCHASLong-Term DeliverablesAn end-user product that will allow a user to solve CAPTCHA in real-time with minimal human input 
+- Possibly research and proof of concept solutions for cognitive reasoning-based CAPTCHAS
+
+Long-Term Deliverables
+  - An end-user product that will allow a user to solve CAPTCHA in real-time with minimal human input 
   - App or website
   - Chrome Extension
 
@@ -207,7 +206,7 @@ Fortify is a platform that connects volunteer cyber security professionals with 
 ### NASA Exploits Project
 #### Overview, Goals, and Objectives
 
-The NASA Protocol Exploits project consists of a team of students that aim to evaluate and investigate the current implementation of the Interplanetary Overlay Network (ION) environment provided by the NASA JPL team. The motivation behind this project stems from the sensitive nature of data communicated over satellites, which typically have ‘security’ low on the priority list. Our overall goal is to analyze the source code and environment to identify various vulnerabilities in the protocols and systems used for space communications and to ultimately document successful exploitations, the methodologies behind them, and potential remedies.
+The NASA Protocol Exploits project consists of a team of students that aim to evaluate and investigate the current implementation of the ION. Our overall goal is to analyze the source code and environment to identify various vulnerabilities in the protocols and systems used for space communications and to ultimately document successful exploitations, the methodologies behind them, and potential remedies.
 
 #### Aims for Trimester
 The NASA Protocol Exploits team aims to advance the project in three different areas over T3 of 2022. The three areas the project seeks to improve are as follows; **Static Code Analysis** - Given the nature of work, the static analysis team carried out in previous trimesters and the list of vulnerabilities generated via automated vulnerability/defect services such as Coverity. The group aims to work through the highest-priority vulnerabilities and document their findings alongside reviewing several aspects of the environment's source code. Some tasks include but are not limited to:
@@ -272,8 +271,7 @@ Long-Term Deliverables for the project:
 ### Appendix Penetration Testing GUI Team Members
 | Name                  | Role                  |
 | -----------           | -----------           |
-| ???                   | Project Lead          |
-| Other Members         | Other roles           |
+| -                   | Project Lead          |
 <div style="page-break-after: always;"></div>
 
 ### Appendix C
