@@ -2,8 +2,8 @@
 
 ## Table of Contents
 - [Hardhat Enterprises](#hardhat-enterprises)
-- [Company Structure and Objectives for 2022 T3](#company-structure-and-objectives-for-2022-t3)
   - [Table of Contents](#table-of-contents)
+- [Company Structure and Objectives for 2022 T3](#company-structure-and-objectives-for-2022-t3)
   - [Executive Summary](#executive-summary)
     - [For our Stakeholders](#for-our-stakeholders)
     - [For our Employees](#for-our-employees)
@@ -67,16 +67,16 @@ The below outlines the membership of the leadership team for this trimester:
 This trimester Hardhat Enterprises aims to:  
 - Achieve an engaging learning experience for students within the company.
 - Achieve an opportunity for students to gain cross-department/project experience and the chance to share their expertise outside of their project team.
-- Continue maturing the five projects; AppAttack; Breaking CAPTCHA; Fortify; and NASA Protocol Exploits. These projects will continue into future trimesters and allow students to showcase their skills. All projects will be open source for students to show to future employers. 
+- Continue maturing the five projects; AppAttack; Breaking CAPTCHA; Fortify; and NASA Protocol Exploits. These projects will continue into future trimesters and allow students to showcase their skills. All projects will be open source for students to show to prospective employers. 
 <div style="page-break-after: always;"></div>
 
 ## Company Structure and Projects Overview
-This trimester (T3/2022), the company is working on five different projects, each supporting the goals of the company in a different way.  
+This trimester (T3/2022), the company is working on four different projects, each supporting the company's goals in another way. Unfortunately, given the limited number of members this trimester, our fifth project, the Penetration testing GUI has been suspended until further notice.
 
 ### Breaking CAPTCHA
 #### Overview, Goals, and Objectives
 
-The goal of the Breaking CAPTCHA project is to develop machine learning, AI, and computer vision models to autonomously solve CAPTCHA problems. The final product of the project will be to provide end users with an interface to solve these CAPTCHA problems. This user interface will be the focus of future iterations. The Hardhat Director wants a product that improves upon current open-source solutions for this problem. As a result, the models to be produced will need to be either more accurate, reliable, or solve a novel issue facing current CAPTCHA solving models. This will be done through several steps, including research and development, creating of models, and deployment of models as well as engineering of deployment and model pipelines. This will be supported by cloud infrastructure developed to solve storage, processing, DevOps and handover issues allowing for the production of ‘infrastructure as code’ artefacts.  
+The goal of the Breaking CAPTCHA project is to develop machine learning, AI, and computer vision models to autonomously solve CAPTCHA problems. The final product of the project will be to provide end users with an interface to solve these CAPTCHA problems. This user interface will be the focus of future iterations. The Hardhat Director wants a product that improves upon current open-source solutions for this problem. As a result, the models to be produced will need to be either more accurate, reliable, or solve a novel issue facing current CAPTCHA solving models. This will be done through several steps, including research and development, creating of models, and deployment of models, as well as engineering of deployment and model pipelines. This will be supported by cloud infrastructure developed to solve storage, processing, DevOps, and handover issues allowing for the production of ‘infrastructure as code’ artifacts.  
 
 #### Aims for Trimester
 
@@ -86,46 +86,42 @@ The project aims for this trimester are to leverage the learnings of previous wo
 - Improving the performance of the Machine learning model that breaks Audio CAPTCHAs.
 - Developing novel methods for solving Audio CAPTCHAS
 - Progressing the development of a non-segmentation model that will break text CAPTCHAs.
-- An Improved pipeline which connects R&D and UI deliverables through Machine Learning pipelines, CI/CD pipelines and improved infrastructure.
+- An Improved pipeline that connects R&D and UI deliverables through Machine Learning pipelines, CI/CD pipelines, and improved infrastructure.
 - Improving the showcase website in both usability and runtime.
 
 #### Deliverables
 
 Trimester Deliverables
 
-- Text and Audio CAPTCHA breaking black box models which are versioned and operationalised
+- Text and Audio CAPTCHA breaking black box models, which are versioned and operationalized
 - Improved performance of CAPTCHA breaking models
-- Improved runtime of Cloud based solutions
+- Improved runtime of Cloud-based solutions
 - Connectivity between R&D and Products using Cloud resources as well as CI/CD and ML pipelines
 - Improved Documentation of progress to date
-- Improved analysis of state of the art of the Breaking CAPTCHA
-- Possibly research and proof of concept solutions for cognitive reasoning based CAPTCHAS
-
-Long Term Deliverables
-
-- An end user product that will allow a user to solve CAPTCHA in real-time with minimal human input 
+- Improved analysis of the state of art of the Breaking CAPTCHA
+- Possibly research and proof of concept solutions for cognitive reasoning-based CAPTCHASLong-Term DeliverablesAn end-user product that will allow a user to solve CAPTCHA in real-time with minimal human input 
   - App or website
   - Chrome Extension
 
 #### Project Members
-[Please see appendix A - Breaking CAPTCHA](#appendix-a)
+[Please see Appendix A - Breaking CAPTCHA](#appendix-a)
 <div style="page-break-after: always;"></div>
 
 ### Penetration Testing GUI
 #### Overview, Goals, and Objectives
-
-Describe the project, its motivation, overall/long-term goals of the project, and how it impacts stakeholders…
+Deakin Detonator Toolkit (DDT) is a toolkit that aims to simplify the penetration testing experience and workflow. The toolkit was initially started as a Command Line Interface (CLI) toolkit with a few minor tools.
 
 #### Aims for Trimester
-
-Describe the aims of the project for this trimester.
+The Penetration Testing GUI will not be continuing this trimester.
 
 #### Deliverables
-
-Describe the deliverables associated with this project – distinguish between long-term and trimester deliverables.
+Long-Term Deliverables for the project: 
+1. Improve user interface/user experience.
+2. Achieve 80% test coverage for the project, minimizing the risk of regression across the development lifecycle.
+3. Implement more attack vectors to the toolkit.•Create more walkthroughs and educational guides on best leveraging the toolkit to perform a penetration test.
 
 #### Project Members
-[Please see appendix B - Penertation Testing GUI](#appendix-b)
+[Please see appendix B - Penetration Testing GUI](#appendix-b)
 <div style="page-break-after: always;"></div>
 
 ### App Attack
@@ -144,19 +140,18 @@ Additionally, the goal of AppAttack is to provide internal deliverables to suppo
   - Each subteam will dive deep into one particular part of OnTrack (like authentication, APIs) 
   - Provides instructions on replicating the updated environment.
   - Allow the next trimester can do the work continuously and not restart.
-- Perform penetration testing on OnTracks in an attempt to find working exploits for vulnerability
+- Perform penetration testing on OnTracks in an attempt to find working exploits for the vulnerability
   - Both successful and unsuccessful exploits should be recorded and discussed, including the
 process of trial and error that was used to reach a working exploit
-- Provide analysis for OnTrack codebase's security
-  - Provide recommendation for both vulnerable and potential dangerous
+- Provide analysis for OnTrack codebase's security provider recommendations for both vulnerable and potentially dangerous
 - Develop procedures, templates, and techniques.
-- Create an experience that is comparable to the industry for students to emphasise on resumes when applying for high-caliber professions.
+- Create an experience that is comparable to the industry for students to emphasize resumes when applying for high-caliber professions.
 - Add value for stakeholders, clients, and students.
 - Offer Deakin University deliverables that are worthwhile.
 
 #### Deliverables
 
-- Deliver a Web Application Penetration Testing Report and Secure Code Review to Deakin University meet the industry standard.
+- Deliver a Web Application Penetration Testing Report and Secure Code Review to Deakin University to meet the industry standard.
 - Cover all parts of OnTrack's codebase 
 
 #### Project Members
@@ -167,7 +162,7 @@ process of trial and error that was used to reach a working exploit
 ### Fortify
 #### Overview, Goals, and Objectives
 
-Fortify is a platform that connects volunteer cyber security professionals with organisations that need assistance building their system security. Fortify attempts to address security flaws and problems that typically affect small enterprises and non-profit organisations that lack the resources to hire a skilled cyber security team. The goal of Fortify is to connect these companies with qualified volunteers who can help raise awareness of cyber security practises, give them the chance to evaluate their present security posture and strengthen their security capabilities, and giving the volunteers the opportunity to showcase their cyber expertise and broaden their network. It's also vital to note that the Fortify’s long-term goal is to become a non-profit organisation that promotes its services all throughout Australia, improving overall security and defending against cyber-attacks. The Fortify project for this trimester builds on existing work finalised in previous trimesters and aims to summarise it, fill the gaps and create a comprehensive report that describes all business operations from start to finish.
+Fortify is a platform that connects volunteer cyber security professionals with organizations that need assistance building their system security. Fortify attempts to address security flaws and problems that typically affect small enterprises and non-profit organizations that lack the resources to hire a skilled cybersecurity team. The goal of Fortify is to connect these companies with qualified volunteers who can help raise awareness of cyber security practices, give them a chance to evaluate their present security posture and strengthen their security capabilities, and give the volunteers the opportunity to showcase their cyber expertise and broaden their network. It's also vital to note that Fortify’s long-term goal is to become a non-profit organization that promotes its services all throughout Australia, improving overall security and defending against cyber-attacks. The Fortify project for this trimester builds on existing work finalized in previous trimesters and aims to summarise it, fill the gaps and create a comprehensive report that describes all business operations from start to finish.
 
 
 #### Aims for Trimester
@@ -200,9 +195,7 @@ Fortify is a platform that connects volunteer cyber security professionals with 
 The NASA Protocol Exploits project consists of a team of students that aim to evaluate and investigate the current implementation of the Interplanetary Overlay Network (ION) environment provided by the NASA JPL team. The motivation behind this project stems from the sensitive nature of data communicated over satellites, which typically have ‘security’ low on the priority list. Our overall goal is to analyze the source code and environment to identify various vulnerabilities in the protocols and systems used for space communications and to ultimately document successful exploitations, the methodologies behind them, and potential remedies.
 
 #### Aims for Trimester
-The NASA Protocol Exploits team aims to advance the project in three different areas over T3 of 2022. The three areas the project seeks to improve are as follows;   
-
-**Static Code Analysis** - The static analysis team, given the nature of work, carried out in previous trimesters and the list of vulnerabilities generated via automated vulnerability/defect services such as Coverity. The group aims to work through the highest-priority vulnerabilities and document their findings alongside reviewing several aspects of the environment's source code. Some tasks include but are not limited to:
+The NASA Protocol Exploits team aims to advance the project in three different areas over T3 of 2022. The three areas the project seeks to improve are as follows; **Static Code Analysis** - Given the nature of work, the static analysis team carried out in previous trimesters and the list of vulnerabilities generated via automated vulnerability/defect services such as Coverity. The group aims to work through the highest-priority vulnerabilities and document their findings alongside reviewing several aspects of the environment's source code. Some tasks include but are not limited to:
   * Reporting on the validity of previously detected vulnerabilities.
   * Reporting the potential impact of such vulnerabilities.
   * Providing potential remedies and/or code fixes.
@@ -333,3 +326,4 @@ Long-Term Deliverables for the project:
 | Tristen Clifton       | Researcher            |
 | Andrew Eymard         | Researcher            |
 | Yizhou Feng           | Researcher            |
+Sadeepa Kaushal Meegahawathhage | Researcher |
