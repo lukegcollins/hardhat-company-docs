@@ -39,12 +39,11 @@
       - [Project Members](#project-members-4)
     - [Appendix A](#appendix-a)
       - [Breaking Captcha Team Members](#breaking-captcha-team-members)
-    - [Appendix Penetration Testing GUI Team Members](#appendix-penetration-testing-gui-team-members)
-    - [Appendix C](#appendix-c)
+    - [Appendix B](#appendix-b)
       - [App Attack](#app-attack-1)
-    - [Appendix D](#appendix-d)
+    - [Appendix C](#appendix-c)
       - [Fortify Team Members](#fortify-team-members)
-    - [Appendix E](#appendix-e)
+    - [Appendix D](#appendix-d)
       - [NASA Exploits Project Team Members](#nasa-exploits-project-team-members)
 <div style="page-break-after: always;"></div>
 
@@ -135,7 +134,7 @@ Long-Term Deliverables for the project:
 3. Implement more attack vectors to the toolkit.•Create more walkthroughs and educational guides on best leveraging the toolkit to perform a penetration test.
 
 #### Project Members
-[Please see appendix B - Penetration Testing GUI](#appendix-b)
+This project does not have members this trimester.
 <div style="page-break-after: always;"></div>
 
 ### App Attack
@@ -169,7 +168,7 @@ process of trial and error that was used to reach a working exploit
 - Cover all parts of OnTrack's codebase 
 
 #### Project Members
-[Please see appendix C - App Attack](#appendix-c)
+[Please see appendix B - App Attack](#appendix-b)
 <div style="page-break-after: always;"></div>
 
 
@@ -199,7 +198,7 @@ Fortify is a platform that connects volunteer cyber security professionals with 
 
 
 #### Project Members
-[Please see appendix D - Fortify](#appendix-d)
+[Please see appendix C - Fortify](#appendix-c)
 <div style="page-break-after: always;"></div>
 
 
@@ -250,7 +249,7 @@ Long-Term Deliverables for the project:
 
 
 #### Project Members
-[Please see appendix D - NASA Exploits Project](#appendix-e)
+[Please see appendix D - NASA Exploits Project](#appendix-d)
 <div style="page-break-after: always;"></div>
 
 ### Appendix A
@@ -265,16 +264,9 @@ Long-Term Deliverables for the project:
 | Tanya Gural           | Cloud/DevOps Engineer, Scrum master           |
 | Ridwan Ganiyu         | Audio CAPTCHA R&D           |
 | Koshila Dodantenna    | Cloud Engineer           |
-
 <div style="page-break-after: always;"></div>
 
-### Appendix Penetration Testing GUI Team Members
-| Name                  | Role                  |
-| -----------           | -----------           |
-| -                   | Project Lead          |
-<div style="page-break-after: always;"></div>
-
-### Appendix C
+### Appendix B
 #### App Attack
 | Name                          | Role                  |
 | -----------                   | -----------           |
@@ -304,7 +296,7 @@ Long-Term Deliverables for the project:
 |Vick Kumar| Penetration Tester |
 <div style="page-break-after: always;"></div>
 
-### Appendix D
+### Appendix C
 #### Fortify Team Members
 | Name                               | Role                  |
 | -----------                        | -----------           |
@@ -326,7 +318,7 @@ Long-Term Deliverables for the project:
 | Ranjan Weerasinghe                 | Research Team         |
 <div style="page-break-after: always;"></div>
 
-### Appendix E
+### Appendix D
 #### NASA Exploits Project Team Members
 | Name                  | Role                  |
 | -----------           | -----------           |
