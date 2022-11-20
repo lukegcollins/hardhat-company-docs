@@ -339,4 +339,5 @@ Long-Term Deliverables for the project:
 | Tristen Clifton       | Researcher            |
 | Andrew Eymard         | Researcher            |
 | Yizhou Feng           | Researcher            |
-Sadeepa Kaushal Meegahawathhage | Researcher |
+| Sadeepa Kaushal Meegahawathhage | Researcher  |
+| Vihan Malalaweera Arachchige    | Researcher  |
