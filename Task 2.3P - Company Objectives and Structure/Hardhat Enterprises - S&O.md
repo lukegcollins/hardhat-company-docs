@@ -210,8 +210,8 @@ NASA Protocol Exploits consists of a team that aims to evaluate security impleme
 #### App Attack
 | Name                          | Role                  |
 | -----------                   | -----------           |
-| Gia Phu Tran                  | Project Lead          |
-| Miaoxuan Han                  | Vice Project Lead     |
+| Gia Phu Tran                  | Project Lead,Team Lead         |
+| Miaoxuan Han                  | Vice Project Lead, Team Lead     |
 |Angad Gandhi                   | Team Lead, Technical Lead |
 |Avinash Babu                   | Team Lead | 
 |Fayzan Latif Soomro            | Team Lead |  
@@ -234,6 +234,10 @@ NASA Protocol Exploits consists of a team that aims to evaluate security impleme
 |Muhammad Saim Khan| Penetration Tester |
 |Diomedes Dio Kyrou| Penetration Tester |
 |Vick Kumar| Penetration Tester |
+|Akshat Misra| Penetration Tester |
+|Anshpreet Singh| Penetration Tester |
+|Harjinder Jarewal| Penetration Tester |
+|Jonah Blundell| Penetration Tester |
 <div style="page-break-after: always;"></div>
 
 ### Appendix D
