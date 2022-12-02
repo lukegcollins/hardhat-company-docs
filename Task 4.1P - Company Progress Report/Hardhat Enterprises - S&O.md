@@ -123,7 +123,7 @@ The Breaking CAPTCHA project 2 main streams, Cloud and R&D. THe R&D initialised 
 - **Cloud**
 
   - Progress: The Cloud team has develped a working local machine learning experiment and pipelining setup using MLFlow, Minio and SQL lite
-  - Forecast: The team is forecasted to have a dockerised and deployable pipeline inclduding basic CI/CD. This should be able to be deployed in VM or locally
+  - Forecast: The team is forecasted to have a dockerised and deployable pipeline inclduding basic CI/CD. This should be able to be deployed in VM or locally. There will also be improved documentatino on GCP practises and procedures.
   - Changes: There was significant IT issues with resource allocation and persmisions, this required the team to pivot to local solutions with the hope that cloud based solutions could happen in the future. Hence K8s approch and Kubeflow was transitioned to local MLflow.
 
 
