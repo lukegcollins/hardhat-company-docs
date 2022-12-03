@@ -165,7 +165,8 @@ process of trial and error that was used to reach a working exploit
 #### Deliverables
 
 - Deliver a Web Application Penetration Testing Report and Secure Code Review to Deakin University to meet the industry standard.
-- Cover all parts of OnTrack's codebase 
+- Cover parts of OnTrack's codebase 
+- Diliver which part have been cover for next next trimester to going continuous
 
 #### Project Members
 [Please see appendix B - App Attack](#appendix-b)
@@ -272,7 +273,6 @@ Long-Term Deliverables for the project:
 | -----------                   | -----------           |
 | Gia Phu Tran                  | Project Lead          |
 | Miaoxuan Han                  | Vice Project Lead     |
-|Angad Gandhi                   | Team Lead, Technical Lead |
 |Avinash Babu                   | Team Lead | 
 |Fayzan Latif Soomro            | Team Lead |  
 |Dilushan Kusal Gunasekara      |Penetration Tester, Reporting Lead| 
@@ -289,7 +289,7 @@ Long-Term Deliverables for the project:
 |Pamudu Wickrama                | Penetration Tester|
 |Oliver Power                   | Penetration Tester|
 |Olivia Vosdoganis              | Penetration Tester|
-|Ashen Udara Madurawala         | Penetration Tester|
+|Ashen Udara Madurawala         |Team Lead, Penetration Tester|
 |Mitchell Burcheri| Penetration Tester |
 |Muhammad Saim Khan| Penetration Tester |
 |Diomedes Dio Kyrou| Penetration Tester |
