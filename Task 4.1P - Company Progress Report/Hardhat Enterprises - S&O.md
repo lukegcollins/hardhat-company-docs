@@ -103,7 +103,7 @@ The project aims for this trimester are to leverage the learnings of previous wo
 
 Trimester Deliverables
 
-- Text and Audio CAPTCHA breaking black box models, which are versioned and operationalized
+- ~~Text and Audio CAPTCHA breaking black box models, which are versioned and operationalized~~
 - Improved performance of CAPTCHA breaking models
 - Improved runtime of Cloud-based solutions
 - Connectivity between R&D and Products using Cloud resources as well as CI/CD and ML pipelines
@@ -115,6 +115,24 @@ Long-Term Deliverables
   - An end-user product that will allow a user to solve CAPTCHA in real-time with minimal human input 
   - App or website
   - Chrome Extension
+
+#### Progress Update (T3 2022)
+
+The Breaking CAPTCHA project 2 main streams, Cloud and R&D. THe R&D initialised as 1 team on Audio CAPTHCAs and another on Text CAPTCHAs - an addition later on was Research component only on Cognitive reasoning based CAPTHAS.
+
+- **Cloud**
+
+  - Progress: The Cloud team has develped a working local machine learning experiment and pipelining setup using MLFlow, Minio and SQL lite
+  - Forecast: The team is forecasted to have a dockerised and deployable pipeline including basic CI/CD. This should be able to be deployed in VM or locally. There will also be improved documentatino on GCP practises and procedures.
+  - Changes: There was significant IT issues with resource allocation and persmisions, this required the team to pivot to local solutions with the hope that cloud based solutions could happen in the future. Hence K8s approch and Kubeflow was transitioned to local MLflow.
+
+
+- **R&D**
+
+  - Progress: The R&D team have developed a complete program for better data download which is fully complete as well as ML based CAPTCHA breaking models. Audio Team is in the process of developing 2 new methods for breaking audio CAPTCHAs. The Text CAPTCHA team is finalising a CNN based non segmentation model and continuing onto more novel techniques. A late addition was research based on cognitive reasoning CAPTCHAs.
+  - Forecast: By the end of trimester there would like be 4 new models for breaking CAPTCHA (2 audio, 2 text) as well as a research paper on methods for breaking cognitive reasoning CAPTCHAS.
+  - Changes: The team focus changed onto testing new models NOT pretrained like the once already in use in the project.
+
 
 #### Project Members
 [Please see Appendix A - Breaking CAPTCHA](#appendix-a)
@@ -260,11 +278,11 @@ Long-Term Deliverables for the project:
 | Luka Croote           | Project Lead          |
 | NGUYEN NGOC BACH LUU  | Text CAPTCHA R&D           |
 | Jamil Rizkallah       | Audio CAPTCHA R&D           |
-| Inder Singh           | Audio CAPTCHA R&D           |
 | Fenglu Cai            | Audio CAPTCHA R&D           |
-| Tanya Gural           | Cloud/DevOps Engineer, Scrum master           |
 | Ridwan Ganiyu         | Audio CAPTCHA R&D           |
 | Koshila Dodantenna    | Cloud Engineer           |
+| Pavan Andaneppa Yarlagatti    | Cloud Engineer           |
+| Randeep Kaushal | Cognitive Reasoning Captcha Research           |
 <div style="page-break-after: always;"></div>
 
 ### Appendix B
