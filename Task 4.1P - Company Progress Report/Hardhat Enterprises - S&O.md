@@ -70,7 +70,7 @@ The below outlines the membership of the leadership team for this trimester:
 This trimester Hardhat Enterprises aims to:  
 - Achieve an engaging learning experience for students within the company.
 - Achieve an opportunity for students to gain cross-department/project experience and the chance to share their expertise outside of their project team.
-- Continue maturing the five projects; AppAttack; Breaking CAPTCHA; Fortify; and NASA Protocol Exploits. These projects will continue into future trimesters and allow students to showcase their skills. All projects will be open source for students to show to prospective employers. 
+- Continue maturing the four projects; AppAttack; Breaking CAPTCHA; Fortify; and NASA Protocol Exploits. These projects will continue into future trimesters and allow students to showcase their skills. All projects will be open source for students to show to prospective employers. 
 
 ## Company Structure and Projects Overview
 ### General Overview
@@ -120,7 +120,7 @@ Long-Term Deliverables
 
 #### Progress Update (T3 2022)
 
-The Breaking CAPTCHA project two main streams, Cloud and R&D. THe R&D initialised as 1 team on Audio CAPTHCAs and another on Text CAPTCHAs - an addition, later on, was a Research component only on Cognitive reasoning based CAPTCHAS.
+The Breaking CAPTCHA project has two main streams, Cloud and R&D. THe R&D initialised as one team on Audio CAPTHCAs and another on Text CAPTCHAs - an addition, later on, was a Research component only on Cognitive reasoning based CAPTCHAS.
 
 - **Cloud**
 
@@ -186,7 +186,7 @@ process of trial and error that was used to reach a working exploit
 
 - Deliver a Web Application Penetration Testing Report and Secure Code Review to Deakin University to meet the industry standard.
 - Cover parts of OnTrack's codebase 
-- Diliver which part have been cover for next next trimester to going continuous
+- Deliver which part has been covered for next trimester to continue progressing
 
 #### Project Members
 [Please see appendix B - App Attack](#appendix-b)
@@ -276,14 +276,14 @@ The NASA Exploits Project has continued to work within two primary streams. The 
 
   - Progress: There have been major changes and progress in the Static Anaylsis team. A framework has been established for members of the cohort to work within. The scope of work has been clearly outlined, and members have begun creating accurate documentation containing detailed graphs and descriptions of various functions and classes. Alongside the documentation, the team has already started validating both true and false positive vulnerabilities in an effort to collate numbers of vulnerabilities for the following trimester.
   - Forecast: The team is forecasted to have a finalized copy of offical documentation alongside a generous amount of identified vulnerabilities/false positives in the form of Static Analysis Reports and Vulnerabilities Assessment Reports.
-  - Changes: The leadership structure was the only significant change during the last sprint—Connie Cox was introduced as the technical lead.
+  - Changes: The leadership structure was the only significant change during the last sprint — Connie Cox was introduced as the technical lead.
 
 
 - **Dynamic Analysis Team**
 
   - Progress: The Dynamic Analysis Teams has faced various challenges in the initial weeks of trimester three. Despite being a smaller team, members were required to re-create the environment from the ground up. This tremendous effort has now been exported and made available for the rest of the group. New environmental changes include all of the required tools and libraries to create abortuary packets for fuzzers alonside the necessary packages for easily recompiling source code to test fixes suggested via the Static Analysis Team.
   - Forecast: The team is forecasted to have a fully functional fuzzer for at least one protocol—i.e., Bundle Protocol. Investigations have also begun for any other existing tooling the team may be able to utilize.
-  - Changes: The leadership structure was the only significant change during the last sprint—Vihan Arachchige was introduced as the technical lead.
+  - Changes: The leadership structure was the only significant change during the last sprint — Vihan Arachchige was introduced as the technical lead.
   
 #### Project Members
 [Please see appendix D - NASA Exploits Project](#appendix-d)
