@@ -16,6 +16,7 @@
       - [Overview, Goals, and Objectives](#overview-goals-and-objectives)
       - [Aims for Trimester](#aims-for-trimester)
       - [Deliverables](#deliverables)
+      - [Progress Update (T3 2022)](#progress-update-t3-2022)
       - [Project Members](#project-members)
     - [Penetration Testing GUI](#penetration-testing-gui)
       - [Overview, Goals, and Objectives](#overview-goals-and-objectives-1)
@@ -36,6 +37,7 @@
       - [Overview, Goals, and Objectives](#overview-goals-and-objectives-4)
       - [Aims for Trimester](#aims-for-trimester-4)
       - [Deliverables](#deliverables-4)
+      - [Progress Update for Trimester Three](#progress-update-for-trimester-three)
       - [Project Members](#project-members-4)
     - [Appendix A](#appendix-a)
       - [Breaking Captcha Team Members](#breaking-captcha-team-members)
@@ -112,19 +114,19 @@ Trimester Deliverables
 - Possibly research and proof of concept solutions for cognitive reasoning-based CAPTCHAS
 
 Long-Term Deliverables
-  - An end-user product that will allow a user to solve CAPTCHA in real-time with minimal human input 
+  - An end-user product that will allow a user to solve CAPTCHA in real time with minimal human input 
   - App or website
   - Chrome Extension
 
 #### Progress Update (T3 2022)
 
-The Breaking CAPTCHA project 2 main streams, Cloud and R&D. THe R&D initialised as 1 team on Audio CAPTHCAs and another on Text CAPTCHAs - an addition later on was Research component only on Cognitive reasoning based CAPTHAS.
+The Breaking CAPTCHA project two main streams, Cloud and R&D. THe R&D initialised as 1 team on Audio CAPTHCAs and another on Text CAPTCHAs - an addition, later on, was a Research component only on Cognitive reasoning based CAPTCHAS.
 
 - **Cloud**
 
-  - Progress: The Cloud team has develped a working local machine learning experiment and pipelining setup using MLFlow, Minio and SQL lite
-  - Forecast: The team is forecasted to have a dockerised and deployable pipeline including basic CI/CD. This should be able to be deployed in VM or locally. There will also be improved documentatino on GCP practises and procedures.
-  - Changes: There was significant IT issues with resource allocation and persmisions, this required the team to pivot to local solutions with the hope that cloud based solutions could happen in the future. Hence K8s approch and Kubeflow was transitioned to local MLflow.
+  - Progress: The Cloud team has developed a working local machine learning experiment and pipelining setup using MLFlow, Minio and SQL lite
+  - Forecast: The team is forecasted to have a dockerized and deployable pipeline, including basic CI/CD. This should be able to be deployed in VM or locally. There will also be improved documentation on GCP practices and procedures.
+  - Changes: There were significant IT issues with resource allocation and permissions, which required the team to pivot to local solutions with the hope that cloud-based solutions could happen in the future. Hence K8s approach and Kubeflow were transitioned to local MLflow.
 
 
 - **R&D**
@@ -266,7 +268,23 @@ Long-Term Deliverables for the project:
   4. Present research findings and remediation recommendations to NASA.
   5. Attain access to the full version of ION.
 
+#### Progress Update for Trimester Three 
+The NASA Exploits Project has continued to work within two primary streams. The Static Analysis and Dynamic Anaylsis Teams individual progress has been summarized below:
 
+
+- **Static Analysis Team**
+
+  - Progress: There have been major changes and progress in the Static Anaylsis team. A framework has been established for members of the cohort to work within. The scope of work has been clearly outlined, and members have begun creating accurate documentation containing detailed graphs and descriptions of various functions and classes. Alongside the documentation, the team has already started validating both true and false positive vulnerabilities in an effort to collate numbers of vulnerabilities for the following trimester.
+  - Forecast: The team is forecasted to have a finalized copy of offical documentation alongside a generous amount of identified vulnerabilities/false positives in the form of Static Analysis Reports and Vulnerabilities Assessment Reports.
+  - Changes: The leadership structure was the only significant change during the last sprint—Connie Cox was introduced as the technical lead.
+
+
+- **Dynamic Analysis Team**
+
+  - Progress: The Dynamic Analysis Teams has faced various challenges in the initial weeks of trimester three. Despite being a smaller team, members were required to re-create the environment from the ground up. This tremendous effort has now been exported and made available for the rest of the group. New environmental changes include all of the required tools and libraries to create abortuary packets for fuzzers alonside the necessary packages for easily recompiling source code to test fixes suggested via the Static Analysis Team.
+  - Forecast: The team is forecasted to have a fully functional fuzzer for at least one protocol—i.e., Bundle Protocol. Investigations have also begun for any other existing tooling the team may be able to utilize.
+  - Changes: The leadership structure was the only significant change during the last sprint—Vihan Arachchige was introduced as the technical lead.
+  
 #### Project Members
 [Please see appendix D - NASA Exploits Project](#appendix-d)
 <div style="page-break-after: always;"></div>
@@ -346,7 +364,6 @@ Long-Term Deliverables for the project:
 | Yongxiang Huang       | Researcher            |
 | Connie Cox            | Researcher            |
 | Jesse Ludeman         | Researcher            |
-| Izaz ishaque          | Researcher            |
 | Tristen Clifton       | Researcher            |
 | Andrew Eymard         | Researcher            |
 | Yizhou Feng           | Researcher            |
