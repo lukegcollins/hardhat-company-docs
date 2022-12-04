@@ -183,7 +183,8 @@ process of trial and error that was used to reach a working exploit
 #### Deliverables
 
 - Deliver a Web Application Penetration Testing Report and Secure Code Review to Deakin University to meet the industry standard.
-- Cover all parts of OnTrack's codebase 
+- Cover parts of OnTrack's codebase 
+- Diliver which part have been cover for next next trimester to going continuous
 
 #### Project Members
 [Please see appendix B - App Attack](#appendix-b)
@@ -198,21 +199,21 @@ Fortify is a platform that connects volunteer cyber security professionals with 
 
 #### Aims for Trimester
 
--	Update the existing website designs and mock-ups
--	Create a comprehensive plan on how to build a website and a database in a secure manner. 
--	Start the work on developing the website 
--	Build a questionnaire for clients  based on Essential 8
--	Create a report showcasing all business procedures with use cases 
--	Create selection criteria for becoming a volunteer
+- Update the existing website designs and mock-ups.
+-	Create a comprehensive plan on how to build a website and a database in a secure manner.
+-	Start the work on developing the website with React stack. 
+-	Build a questionnaire for clients  based on Essential 8.
+-	Create a report showcasing all business procedures with use cases.
+-	Create selection criteria for becoming a volunteer. 
 
 
 #### Deliverables
 
-•	Improved design of the website 
-•	Research and proof of concept solutions for Fortify website and database
-•	The landing page and environments for the website
-•	Developed and refined cyber security assessment questionnaire and scoring matrix
-•	A clear and comprehensive report with the plan and explanation of all business operations 
+*	Improved design of the website.
+*	Research and proof of concept solutions for Fortify website and database.
+*	The landing page and environments for the website.
+*	Developed and refined cyber security assessment questionnaire and scoring matrix.
+*	A clear and comprehensive report with the plan and explanation of all business operations.
 
 
 #### Project Members
@@ -290,7 +291,6 @@ Long-Term Deliverables for the project:
 | -----------                   | -----------           |
 | Gia Phu Tran                  | Project Lead          |
 | Miaoxuan Han                  | Vice Project Lead     |
-|Angad Gandhi                   | Team Lead, Technical Lead |
 |Avinash Babu                   | Team Lead | 
 |Fayzan Latif Soomro            | Team Lead |  
 |Dilushan Kusal Gunasekara      |Penetration Tester, Reporting Lead| 
@@ -307,7 +307,7 @@ Long-Term Deliverables for the project:
 |Pamudu Wickrama                | Penetration Tester|
 |Oliver Power                   | Penetration Tester|
 |Olivia Vosdoganis              | Penetration Tester|
-|Ashen Udara Madurawala         | Penetration Tester|
+|Ashen Udara Madurawala         |Team Lead, Penetration Tester|
 |Mitchell Burcheri| Penetration Tester |
 |Muhammad Saim Khan| Penetration Tester |
 |Diomedes Dio Kyrou| Penetration Tester |
@@ -316,24 +316,25 @@ Long-Term Deliverables for the project:
 
 ### Appendix C
 #### Fortify Team Members
-| Name                               | Role                  |
-| -----------                        | -----------           |
-| Paulina Wesolowska                 | Project Lead          |
-| Shravan Paladugu                   | Team Lead             |
-| Abigail Chong                      | Development Team      |
-| Ali Adil Abdulrazzaq Al-Kinan      | Development Team      |
-| David Wang                         | Development Team      |
-| Harry Singh                        | Development Team      |
-| Nadia Maharani Azhari              | Development Team      |
-| Tom Edmondson                      | Development Team      |
-| Beatrice Jeruto Rerimoi            | Development Team      |
-| Bill Petridis                      | Team Lead             |
-| Aayush Talwar                      | Research Team         |
-| Kevin Kidd                         | Research Team         |
-| Luke Newton                        | Research Team         |
-| Manav Lath                         | Research Team         |
-| Muhammed Khudruj                   | Research Team         |
-| Ranjan Weerasinghe                 | Research Team         |
+| Name                               | Role           |
+| -----------                        | -----------    |
+| Paulina Wesolowska                 | Project Lead   |
+| Shravan Paladugu                   | Team Lead      |
+| Abigail Chong                      | Developer      |
+| Ali Adil Abdulrazzaq Al-Kinan      | Developer      |
+| David Wang                         | Developer      |
+| Harry Singh                        | Developer      |
+| Nadia Maharani Azhari              | Developer      |
+| Tom Edmondson                      | Developer      |
+| Beatrice Jeruto Rerimoi            | Developer      |
+| Hassan Madni                       | Developer      |
+| Bill Petridis                      | Team Lead      |
+| Aayush Talwar                      | Researcher     |
+| Kevin Kidd                         | Researcher     |
+| Luke Newton                        | Researcher     |
+| Manav Lath                         | Researcher     |
+| Muhammed Khudruj                   | Researcher     |
+| Ranjan Weerasinghe                 | Researcher     |
 <div style="page-break-after: always;"></div>
 
 ### Appendix D
